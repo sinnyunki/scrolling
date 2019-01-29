@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="hundreds.co.kr" resolutions="1x" timestamp="1479203686868">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4044145562" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="notosanskr-regular.woff" crc="323564728"/>
+    <file name="notosanskr-regular.eot" crc="4230807840"/>
+  </folder>
+  <folder name="assets">
+    <file name="richie_hawtin.epub" crc="4006609701" seo="true" mt="1479184826000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="phone>index:index"/>
+    <file name="museutils.js" crc="4155826306" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="483509463" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="phone>index:index"/>
+    <file name="require.js" crc="228336483" ref="phone>index:index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3819965401" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3985350519" seo="true" mt="1479203595112" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="210533267" seo="true" mt="1479203560914" redirect="true"/>
+</manifest>

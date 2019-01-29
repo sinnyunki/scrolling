@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hundreds.co.kr/index.html</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://hundreds.co.kr/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://hundreds.co.kr/assets/richie_hawtin.epub</loc>
+    <lastmod>2016-11-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
